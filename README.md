@@ -1,5 +1,9 @@
 # 🌌 NexusRAG: Enterprise Multi-Agent Knowledge Intelligence Platform
 
+### 🚀 Live Deployments
+* **Frontend UI (Vercel):** [https://nexus-rag-dkkz.vercel.app](https://nexus-rag-dkkz.vercel.app)
+* **Backend API (Render):** [https://nexusrag-gdd7.onrender.com](https://nexusrag-gdd7.onrender.com)
+
 **NexusRAG is not a chatbot.** 
 
 It is a production-grade **Multi-Agent Knowledge Intelligence Platform** that blends Agentic AI, Advanced RAG pipelines, Knowledge Graphs, AI Observability, and Collaborative Workspace management. Built to bridge the gap between static databases and cognitive reasoning, it gives enterprises a fully transparent, observed, and highly secure window into their knowledge bases.
